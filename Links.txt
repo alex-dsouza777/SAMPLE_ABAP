@@ -1,0 +1,3 @@
+https://rkmsap.blogspot.com/2018/12/long-text-in-module-pool-programming.html
+http://nrabap.blogspot.com/2014/06/working-with-long-text.html
+http://www.henrikfrank.dk/abaptips/abapobjects/textedit_control.htm
